@@ -1,0 +1,15 @@
+Q1
+My career goal is not completely certain yet. I'm still learning the difference of dev ops, swe and system admin jobs and not sure which one I should focus on.
+Q2
+I don't know much about software engineers, but I think swe also needs database knowledge, just like devops or system admin jobs.
+Q3
+
+Zhishang Wang 
+
+MS.ACCESS
+Amazon RDS
+ - MySQL
+ - Oracle (large enterprise)
+PostgRE Sql (open sourse)
+MS SQL 
+Azure
